@@ -11,6 +11,11 @@
 	float: left;
 }
 
+.lateral{
+	background-color: #CED1D2;
+	float: left;
+}
+
 .menu{
 	background-color: white;
 	float: left;
@@ -27,9 +32,36 @@
 
 .blocos{
 	margin: 2%;
+	width: 100%;
 }
 
 .bloco{
-	width: 30%;
+	width: 33%;
 	float: left;
+	height: 450px;
+}
+.footer{
+	width: 100%;
+	float: left;
+}
+
+.escuro{
+	background-color: #666666;
+	width: 100%;
+}
+
+.claro{
+	background-color: #999999;
+	width: 100%;
+	float: left;
+}
+
+.direitos{
+	float: left;
+	width: 50%;
+}
+
+.crowdfunding{
+	float: left;
+	width: 50%;
 }
