@@ -1,0 +1,35 @@
+.header{
+	width: 75%;
+	margin: 0 auto;
+}
+
+.middle{
+	background-color: white;
+}
+
+.logo{
+	float: left;
+}
+
+.menu{
+	background-color: white;
+	float: left;
+	margin-left: 13%;
+}
+
+.conta{
+	float: right;
+}
+
+.banner{
+	margin: 1%;
+}
+
+.blocos{
+	margin: 2%;
+}
+
+.bloco{
+	width: 30%;
+	float: left;
+}
